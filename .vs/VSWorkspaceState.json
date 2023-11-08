@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LV2-RUAP",
+    "\\LV2-RUAP\\bin",
+    "\\LV2-RUAP\\bin\\Release\\net6.0",
+    "\\LV2-RUAP\\Controllers",
+    "\\LV2-RUAP\\Models",
+    "\\LV2-RUAP\\obj\\Release",
+    "\\LV2-RUAP\\Services",
+    "\\LV2-RUAP\\Views\\Home"
+  ],
+  "SelectedNode": "\\LV2-RUAP\\Controllers\\ContactController.cs",
+  "PreviewInSolutionExplorer": false
+}

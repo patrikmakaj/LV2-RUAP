@@ -28,3 +28,13 @@ C:\Users\student\source\repos\LV2-RUAP\LV2-RUAP\obj\Debug\net6.0\refint\LV2-RUAP
 C:\Users\student\source\repos\LV2-RUAP\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.pdb
 C:\Users\student\source\repos\LV2-RUAP\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.genruntimeconfig.cache
 C:\Users\student\source\repos\LV2-RUAP\LV2-RUAP\obj\Debug\net6.0\ref\LV2-RUAP.dll
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.AssemblyInfo.cs
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.RazorAssemblyInfo.cache
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.RazorAssemblyInfo.cs
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.dll
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\refint\LV2-RUAP.dll
+C:\Users\student\source\repos\LV2-RUAP\obj\Debug\net6.0\LV2-RUAP.pdb
